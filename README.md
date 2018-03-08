@@ -1,6 +1,6 @@
 # High compatibility email creation 3
 
-THe last example of email creation with high compatibility
+The last example of email creation with high compatibility
 (with many email clients - web, desktop, mobile and very old --> __Microsoft Outlook 2007__).
 
 Created with good practices and standards for email creations. Of course it is made with __HTML tables__ :-)
